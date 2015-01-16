@@ -1,6 +1,6 @@
 <?php 
 require_once('config.php');
-require_once('my_error_handler');
+require_once('error_handler');
 
 class Chat
 {
